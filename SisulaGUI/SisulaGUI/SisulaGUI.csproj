@@ -59,6 +59,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="ViewModel\AbstractViewModel.cs" />
+    <Compile Include="ViewModel\SourceViewModel.cs" />
+    <Compile Include="ViewModel\TargetViewModel.cs" />
+    <Compile Include="ViewModel\WorkflowViewModel.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -77,6 +81,9 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model\Source.cs" />
+    <Compile Include="Model\Target.cs" />
+    <Compile Include="Model\Workflow.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -115,9 +122,12 @@
     <Resource Include="Licenses\MahApps.Metro-license.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Model\" />
-    <Folder Include="ViewModel\" />
     <Folder Include="View\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Output\source.xml" />
+    <Resource Include="Output\target.xml" />
+    <Resource Include="Output\workflow.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

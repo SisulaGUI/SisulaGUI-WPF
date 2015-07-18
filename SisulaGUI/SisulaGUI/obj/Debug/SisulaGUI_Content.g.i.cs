@@ -8,6 +8,8 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("licenses/textfile1.txt")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("output/source.xml")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("output/target.xml")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("output/workflow.xml")]
 
 
