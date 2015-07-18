@@ -1,1 +1,17 @@
 C:\Users\Administrator\Documents\GitHub\SisulaGUI-WPF\SisulaGUI\SisulaGUI\bin\Debug\SisulaGUI.exe.config
+C:\Users\Administrator\Documents\GitHub\SisulaGUI-WPF\SisulaGUI\SisulaGUI\bin\Debug\SisulaGUI.exe
+C:\Users\Administrator\Documents\GitHub\SisulaGUI-WPF\SisulaGUI\SisulaGUI\bin\Debug\SisulaGUI.pdb
+C:\Users\Administrator\Documents\GitHub\SisulaGUI-WPF\SisulaGUI\SisulaGUI\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\GitHub\SisulaGUI-WPF\SisulaGUI\SisulaGUI\obj\Debug\Resources\Icons.baml
+C:\Users\Administrator\Documents\GitHub\SisulaGUI-WPF\SisulaGUI\SisulaGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\GitHub\SisulaGUI-WPF\SisulaGUI\SisulaGUI\obj\Debug\Resources\Icons.g.cs
+C:\Users\Administrator\Documents\GitHub\SisulaGUI-WPF\SisulaGUI\SisulaGUI\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\GitHub\SisulaGUI-WPF\SisulaGUI\SisulaGUI\obj\Debug\SisulaGUI_MarkupCompile.cache
+C:\Users\Administrator\Documents\GitHub\SisulaGUI-WPF\SisulaGUI\SisulaGUI\obj\Debug\SisulaGUI.g.resources
+C:\Users\Administrator\Documents\GitHub\SisulaGUI-WPF\SisulaGUI\SisulaGUI\obj\Debug\SisulaGUI.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\SisulaGUI-WPF\SisulaGUI\SisulaGUI\obj\Debug\SisulaGUI.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\GitHub\SisulaGUI-WPF\SisulaGUI\SisulaGUI\obj\Debug\SisulaGUI.exe
+C:\Users\Administrator\Documents\GitHub\SisulaGUI-WPF\SisulaGUI\SisulaGUI\obj\Debug\SisulaGUI.pdb
+C:\Users\Administrator\Documents\GitHub\SisulaGUI-WPF\SisulaGUI\SisulaGUI\bin\Debug\MahApps.Metro.dll
+C:\Users\Administrator\Documents\GitHub\SisulaGUI-WPF\SisulaGUI\SisulaGUI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Documents\GitHub\SisulaGUI-WPF\SisulaGUI\SisulaGUI\bin\Debug\MahApps.Metro.xml
