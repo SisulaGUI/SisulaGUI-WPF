@@ -20,7 +20,7 @@ namespace SisulaGUI.Model
     [System.ComponentModel.DesignerCategoryAttribute("code")]
     [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = true)]
     [System.Xml.Serialization.XmlRootAttribute(Namespace = "", IsNullable = false)]
-    public partial class source
+    public partial class Source
     {
 
         private string descriptionField;
@@ -66,7 +66,7 @@ namespace SisulaGUI.Model
         public string split { get; set; }
 
 
-        public source()
+        public Source()
         {
             this.partField = new List<sourcePart>();
         }
